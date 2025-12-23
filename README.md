@@ -33,17 +33,17 @@
     + ![equation](https://latex.codecogs.com/png.image?%5Cinline%20%5Cdpi%7B110%7D%5Cbg%7Bwhite%7Dp_%7B1%7D=H%5Ccdot%5Cbegin%7Bbmatrix%7D-0.67%5C%5C0%5C%5C-1.38%5C%5C1%5Cend%7Bbmatrix%7D,%5C;p_%7B2%7D=H%5Ccdot%5Cbegin%7Bbmatrix%7D-0.67%5C%5C0%5C%5C1.38%5C%5C1%5Cend%7Bbmatrix%7D,%5C;p_%7B3%7D=H%5Ccdot%5Cbegin%7Bbmatrix%7D0.71%5C%5C0%5C%5C0%5C%5C1%5Cend%7Bbmatrix%7D)
     + $J_{i} = \frac{\partial p_i}{\partial q}$ <br><br>
 
-#### Local Minimum 실행결과
+### Local Minimum 실행결과
 
 https://github.com/user-attachments/assets/70415d95-23a4-4801-834e-3d479116e822
 
 https://github.com/user-attachments/assets/7035b480-12af-4e0b-b170-9edb3af49f68
 
-#### 무인 자동차 실행결과
+### 무인 자동차 실행결과
 
 https://github.com/user-attachments/assets/30c75391-f95e-4bf9-8bdd-de1ce762e721
 
-#### UAV 실행결과
+### UAV 실행결과
 
 https://github.com/user-attachments/assets/13181d93-cdc4-4cdc-beaf-991c9f521158
 
